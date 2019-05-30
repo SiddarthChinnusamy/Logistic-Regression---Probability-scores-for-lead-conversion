@@ -1,12 +1,13 @@
 # Objective
-The objective of the exercise is to build a binary classification model that assigns a probabiltiy of conversion of a lead to subscribe to a digital learning management product.
+The objective of the exercise is to build a binary classification model that assigns a probabiltiy of conversion of a lead to subscribe to a digital learning management product. The data is not shared in the repository for confidentiality
 
 # Packages Required
-  1.ROCR
-  2.pROC
-  3.WVPlots
-  4.vtreat
-  5.ggplot2
+The following packages 
+  1. ROCR
+  2. pROC
+  3. WVPlots
+  4. vtreat
+  5. ggplot2
 
 # Flow
 ## Data understanding 
